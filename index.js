@@ -1,4 +1,4 @@
-const variabile = document.getElementById('newList') 
+const variabile = document.getElementById('newlist') 
 
 variabile.addEventListener('submit', function (e) {
   e.preventDefault()
